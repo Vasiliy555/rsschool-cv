@@ -1,9 +1,6 @@
 # CV 
 
 # **Vasiliy Vasilev**
-# CV 
-
-# **Vasiliy Vasilev**
 
 --- ---
 ## **Skills**
